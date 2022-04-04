@@ -1,5 +1,6 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/f4hy/godash.svg)](https://pkg.go.dev/github.com/f4hy/godash)
 # godash
-Functional programming methods for golang al la lodash. Now possible using generics from go 1.18
+Functional programming methods for golang inspired by [lodash](https://lodash.com/). Now possible using generics from go 1.18
 
 
 Usage
